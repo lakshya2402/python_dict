@@ -1,2 +1,3 @@
 # python_dict
-dictionary  from file use
+this dictionary use file to read and use that for intractive responds
+
